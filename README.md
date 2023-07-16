@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Odai Nasser, I am specialist in Laravel and React
+
 <!--
 **odainasser/odainasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
