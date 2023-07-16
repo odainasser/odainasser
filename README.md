@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 My name is Odai Nasser, I am specialist in Laravel and React
 
