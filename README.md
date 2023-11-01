@@ -1,7 +1,7 @@
 ### Hello 👋
 ---
 
-My name is Odai Nasser, I am specialist in Laravel and React
+My name is Odai Nasser, I am back-end software engineering specialist.
 
 
 <!--
