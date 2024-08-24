@@ -1,7 +1,7 @@
 ### Hello 👋
 ---
 
-My name is Odai Nasser, I am JavaScript software engineer.
+My name is Odai Nasser, I am backend software engineer.
 
 
 <!--
