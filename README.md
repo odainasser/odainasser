@@ -1,7 +1,7 @@
 ### Hello 👋
 ---
 
-My name is Odai Nasser, I am back-end software engineering specialist.
+My name is Odai Nasser, I am JavaScript Software engineer.
 
 
 <!--
