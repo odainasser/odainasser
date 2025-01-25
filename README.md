@@ -1,4 +1,4 @@
-# Hi there, I'm Oda Nasser! 👋
+# Hi there, I'm Odai Nasser! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in backend development. Here's a little bit about me:
 
