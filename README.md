@@ -4,18 +4,14 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in backe
 
 ## About Me
 
-- 🔭 I’m currently working on advanced web applications using Laravel and NestJS.
-- 🌱 I’m currently learning more about blockchain technology.
-- 👯 I’m looking to collaborate on open-source projects related to backend development.
-- 💬 Ask me about PHP, Laravel, NodeJS, NestJS, MySQL, and PostgreSQL.
+- 🔭 I’m currently working on advanced web applications using .NET Core, NestJS and Laravel.
 - 📫 How to reach me: karajah90@icloud.com
-- ⚡ Fun fact: I love exploring new databases and optimizing queries for performance.
 
 ## Skills
 
-- **Languages:** PHP, JavaScript, TypeScript, SQL
-- **Frameworks/Libraries:** Laravel, NestJS, Express.js
-- **Databases:** MySQL, PostgreSQL
+- **Languages:** C#, PHP, JavaScript, TypeScript, SQL
+- **Frameworks/Libraries:** .NET Core, Laravel, NestJS.
+- **Databases:** SQL Server, MySQL, PostgreSQL
 - **Tools:** Docker, Git, Postman
 
 ## GitHub Stats
