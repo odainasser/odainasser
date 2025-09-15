@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in backe
 ## About Me
 
 - 🔭 I’m currently working on advanced web applications using .NET Core, NestJS and Laravel.
-- 📫 How to reach me: karajah90@icloud.com
+- 📫 How to reach me: odai.nasser@outlook.com
 
 ## Skills
 
